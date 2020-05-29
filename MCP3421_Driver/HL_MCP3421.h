@@ -1,6 +1,8 @@
 #ifndef _HL_MCP3421_H_
 #define _HL_MCP3421_H_
 #include <MSP430x24x.h>        //视具体单片机型号引用不同头文件
+
+
 #include <string.h>
 #include <stdio.h>
 #define CPU_F ((double)8000000)
